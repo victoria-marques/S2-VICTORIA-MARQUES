@@ -1,6 +1,10 @@
 # Estoque de jogos
 estoque = {
-   
+    "1": "The Legend of Zelda: Breath of the Wild",
+    "2": "Super Mario Odyssey",
+    "3": "God of War",
+    "4": "Minecraft",
+    "5": "The Last of Us Part II"
 }
 
 # Exibe os jogos disponíveis
